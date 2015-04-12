@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-// test2
+
 @end
 
 @implementation AppDelegate
